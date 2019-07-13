@@ -1,0 +1,60 @@
+baseURL = "https://www.ryanisaacg.com"
+languageCode = "en-us"
+title = "ryanisaacg"
+theme = "blog-theme"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Ryan Goldstein's personal website"
+  keywords = ""
+  images = [""]
+
+  # Directory name of your blog content (default is `content/posts`)
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+  homeSubtitle = "I'm Ryan Goldstein, computer science student and software developer"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:ryan@ryanisaacg.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/ryanisaacg"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/ryanisaacg"
+
+[languages]
+  [languages.en]
+    title = "ryan.isaac.g"
+    subtitle = "Ryan Goldstein's Site"
+    keywords = ""
+    copyright = ""
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "$HOME"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+# And you can even create generic menu
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
