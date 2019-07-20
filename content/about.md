@@ -2,15 +2,15 @@
 title: "About Me"
 ---
 
+I'm a computer science student and a software developer, currently looking for full-time positions.
+
  I'm studying Computer Science at Rutgers University New Brunswick in the School of Arts and Sciences Honors Program. My main area of experience is PC game development, and I have had internships for both web and mobile applications. Most of my side projects are written either C, Java, Python, or Rust.
 
 ### Academic Experience
 
-I'm a senior at Rutgers University, completing a CS major in May 2020. I haven't found time for an official minor, though I try take classes on linguistics and sociology when I'm able. As an undergrad I don't have a specific area of interest, though I prefer to learn about the theory behind reliable computer systems and ways to democratize the power of computing.
+I'm a senior studying Computer Science at Rutgers University; I've tried to take a wide variety of upper-level classes, with an interest in improving the average person's access to computing power.
 
 ### Professional Experience
-
-My professional experience so far is limited to internships and work in research labs.
 
 This past summer (2019) I worked as an intern at Facebook [on the Analytics team in the Connectivity organization](https://connectivity.fb.com/analytics/), where I worked full-stack on both front-end products and the backend services to power them. On the frontend, I made improvements to tools to automate previously manual processes, and on the backend I implemented a new more resilient model to represent polygons in map data.
 
