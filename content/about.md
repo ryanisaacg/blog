@@ -6,7 +6,7 @@ title: "About Me"
 
 ### Academic Experience
 
-I study Computer Science in the school of Arts and Sciences at Rutgers University. I haven't found time for an official minor, though I try take classes on linguistics and sociology when I'm able. As an undergrad I don't have a specific area of interest, though I prefer to learn about the theory behind reliable computer systems and ways to democratize the power of computing.
+I'm a senior at Rutgers University, completing a CS major in May 2020. I haven't found time for an official minor, though I try take classes on linguistics and sociology when I'm able. As an undergrad I don't have a specific area of interest, though I prefer to learn about the theory behind reliable computer systems and ways to democratize the power of computing.
 
 ### Professional Experience
 
