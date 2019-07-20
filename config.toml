@@ -41,7 +41,7 @@ theme = "blog-theme"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "$HOME"
+      logoText = "cd $HOME"
       logoHomeLink = "/"
     # or
     #
