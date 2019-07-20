@@ -1,7 +1,6 @@
 ---
 title: Website Makeover
 date: 2019-07-20
-draft: true
 toc: false
 images:
 tags:
