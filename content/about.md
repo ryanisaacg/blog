@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
- I'm studing Computer Science at Rutgers University New Brunswick in the School of Arts and Sciences Honors Program. My main area of experience is PC game development, and I have had internships for both web and mobile applications. Most of my side projects are written either C, Java, Python, or Rust.
+ I'm studying Computer Science at Rutgers University New Brunswick in the School of Arts and Sciences Honors Program. My main area of experience is PC game development, and I have had internships for both web and mobile applications. Most of my side projects are written either C, Java, Python, or Rust.
 
 ### Academic Experience
 
