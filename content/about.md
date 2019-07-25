@@ -4,7 +4,7 @@ title: "About Me"
 
 I'm a computer science student and a software developer, currently looking for full-time positions.
 
- I'm studying Computer Science at Rutgers University New Brunswick in the School of Arts and Sciences Honors Program. My main area of experience is PC game development, and I have had internships for both web and mobile applications. Most of my side projects are written either C, Java, Python, or Rust.
+ I'm studying Computer Science at Rutgers University New Brunswick in the School of Arts and Sciences Honors Program. My main area of experience is full stack web development, with my side projects focused on open source game development.
 
 ### Academic Experience
 
