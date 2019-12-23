@@ -1,6 +1,6 @@
 ---
 title: "A Quicksilver Chanukah: Day 1"
-date: 2019-11-22
+date: 2019-12-22
 toc: false
 images:
 tags:
