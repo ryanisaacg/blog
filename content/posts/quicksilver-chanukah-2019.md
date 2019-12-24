@@ -18,7 +18,7 @@ Additionally, a major new Rust feature landed this year: async/await. Quicksilve
 As [Chanukah](https://en.wikipedia.org/wiki/Hanukkah) starts tonight, I'm going to share these new crates and big Quicksilver updates over the next eight days. I can't promise I'll actually stick to this schedule, but my goal is:
 
 1. This post!
-2. `platter`: An async file-loading API for desktop and web
+2. [`platter`: An async file-loading API for desktop and web](../quicksilver-chanukah-2019-day-2)
 3. `gestalt`: An API to manage bundling and saving data locally on desktop and web
 4. `blinds`: An easy-to-use async wrapper of `winit`
 5. `golem`: An opinionated mostly-safe graphics library for desktop and web GL
