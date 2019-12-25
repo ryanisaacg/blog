@@ -72,7 +72,7 @@ That's Day 2 down, but there are 6 more days of Quicksilver Chanukah:
 
 1. [Yesterday's introduction post](../quicksilver-chanukah-2019)
 2. This post!
-3. `gestalt`: An API to manage bundling and saving data locally on desktop and web
+3. [`gestalt`: An API to manage bundling and saving data locally on desktop and web](../quicksilver-chanukah-2019-day-3)
 4. `blinds`: An easy-to-use async wrapper of `winit`
 5. `golem`: An opinionated mostly-safe graphics library for desktop and web GL
 6. Changes to the Quicksilver application lifecycle
