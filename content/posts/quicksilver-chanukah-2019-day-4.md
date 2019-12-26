@@ -74,7 +74,7 @@ The `async` API isn't just way more convenient than the previous, trait-based sy
 
 With `blinds` today, tomorrow will be the last new crate: `golem`!
 
-1. [Yesterday's introduction post](../quicksilver-chanukah-2019)
+1. [The introduction post](../quicksilver-chanukah-2019)
 2. [`platter`: An async file-loading API for desktop and web](../quicksilver-chanukah-2019-day-2)
 3. [`gestalt`: An API to manage bundling and saving data locally on desktop and web](../quicksilver-chanukah-2019-day-3)
 4. This post!

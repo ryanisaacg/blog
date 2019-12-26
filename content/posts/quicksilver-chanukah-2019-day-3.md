@@ -41,7 +41,7 @@ Getsalt creates a Key/Value store, backed by the filesystem on desktop and the w
 
 That's Day 3 done: `gestalt` is pretty small! Tomorrow's library, `blinds`, starts to get quite a bit bigger.
 
-1. [Yesterday's introduction post](../quicksilver-chanukah-2019)
+1. [The introduction post](../quicksilver-chanukah-2019)
 2. [`platter`: An async file-loading API for desktop and web](../quicksilver-chanukah-2019-day-2)
 3. This post!
 4. [`blinds`: An easy-to-use async wrapper of `winit`](../quicksilver-chanukah-2019-day-4)
