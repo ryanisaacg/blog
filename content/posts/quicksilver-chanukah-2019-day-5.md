@@ -154,6 +154,6 @@ fn main() {
 3. [`gestalt`: An API to manage bundling and saving data locally on desktop and web](../quicksilver-chanukah-2019-day-3)
 4. [`blinds`: An easy-to-use async wrapper of `winit`](../quicksilver-chanukah-2019-day-4)
 5. This post!
-6. Changes to the Quicksilver application lifecycle
+6. [Changes to the Quicksilver application lifecycle](../quicksilver-chanukah-day-6)
 7. Changes to the Quicskilver graphics API
 8. An overview of the work on web support this year

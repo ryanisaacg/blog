@@ -78,7 +78,7 @@ With `blinds` today, tomorrow will be the last new crate: `golem`!
 2. [`platter`: An async file-loading API for desktop and web](../quicksilver-chanukah-2019-day-2)
 3. [`gestalt`: An API to manage bundling and saving data locally on desktop and web](../quicksilver-chanukah-2019-day-3)
 4. This post!
-5. `golem`: An opinionated mostly-safe graphics library for desktop and web GL
-6. Changes to the Quicksilver application lifecycle
+5. [`golem`: An opinionated mostly-safe graphics library for desktop and web GL](../quicksilver-chanukah-2019-day-5)
+6. [Changes to the Quicksilver application lifecycle](../quicksilver-chanukah-day-6)
 7. Changes to the Quicskilver graphics API
 8. An overview of the work on web support this year

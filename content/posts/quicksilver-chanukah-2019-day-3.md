@@ -45,7 +45,7 @@ That's Day 3 done: `gestalt` is pretty small! Tomorrow's library, `blinds`, star
 2. [`platter`: An async file-loading API for desktop and web](../quicksilver-chanukah-2019-day-2)
 3. This post!
 4. [`blinds`: An easy-to-use async wrapper of `winit`](../quicksilver-chanukah-2019-day-4)
-5. `golem`: An opinionated mostly-safe graphics library for desktop and web GL
-6. Changes to the Quicksilver application lifecycle
+5. [`golem`: An opinionated mostly-safe graphics library for desktop and web GL](../quicksilver-chanukah-2019-day-5)
+6. [Changes to the Quicksilver application lifecycle](../quicksilver-chanukah-day-6)
 7. Changes to the Quicskilver graphics API
 8. An overview of the work on web support this yea5
