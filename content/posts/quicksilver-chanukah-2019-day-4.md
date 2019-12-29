@@ -80,5 +80,5 @@ With `blinds` today, tomorrow will be the last new crate: `golem`!
 4. This post!
 5. [`golem`: An opinionated mostly-safe graphics library for desktop and web GL](../quicksilver-chanukah-2019-day-5)
 6. [Changes to the Quicksilver application lifecycle](../quicksilver-chanukah-day-6)
-7. Changes to the Quicskilver graphics API
+7. [Changes to the Quicskilver graphics API](../quicksilver-chanukah-day-7)
 8. An overview of the work on web support this year

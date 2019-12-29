@@ -76,5 +76,5 @@ That's Day 2 down, but there are 6 more days of Quicksilver Chanukah:
 4. [`blinds`: An easy-to-use async wrapper of `winit`](../quicksilver-chanukah-2019-day-4)
 5. [`golem`: An opinionated mostly-safe graphics library for desktop and web GL](../quicksilver-chanukah-2019-day-5)
 6. [Changes to the Quicksilver application lifecycle](../quicksilver-chanukah-day-6)
-7. Changes to the Quicskilver graphics API
+7. [Changes to the Quicskilver graphics API](../quicksilver-chanukah-day-7)
 8. An overview of the work on web support this yea5

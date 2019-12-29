@@ -155,5 +155,5 @@ fn main() {
 4. [`blinds`: An easy-to-use async wrapper of `winit`](../quicksilver-chanukah-2019-day-4)
 5. This post!
 6. [Changes to the Quicksilver application lifecycle](../quicksilver-chanukah-day-6)
-7. Changes to the Quicskilver graphics API
+7. [Changes to the Quicskilver graphics API](../quicksilver-chanukah-day-7)
 8. An overview of the work on web support this year
