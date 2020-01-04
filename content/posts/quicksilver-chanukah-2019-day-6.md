@@ -88,5 +88,5 @@ Speaking of releases, I hope to have a very early alpha of this version of Quick
 4. [`blinds`: An easy-to-use async wrapper of `winit`](../quicksilver-chanukah-2019-day-4)
 5. [`golem`: An opinionated mostly-safe graphics library for desktop and web GL](../quicksilver-chanukah-2019-day-5)
 6. This post!
-7. [Changes to the Quicskilver graphics API](../quicksilver-chanukah-day-7)
-8. An overview of the work on web support this year
+7. [Changes to the Quicksilver graphics API](../quicksilver-chanukah-2019-day-7)
+8. [An overview of the work on web support this year](../quicksilver-chanukah-2019-day-8)

@@ -36,4 +36,4 @@ The current version of Quicksilver "magically" handles the window being resized,
 5. [`golem`: An opinionated mostly-safe graphics library for desktop and web GL](../quicksilver-chanukah-2019-day-5)
 6. [Changes to the Quicksilver application lifecycle](../quicksilver-chanukah-2019-day-6)
 7. This post!
-8. An overview of the work on web support this year
+8. [An overview of the work on web support this year](../quicksilver-chanukah-2019-day-8)
