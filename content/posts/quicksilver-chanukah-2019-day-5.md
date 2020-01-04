@@ -32,7 +32,7 @@ Where possible, `golem` handles for you the complex state machine of OpenGL. In 
 
 ## A Code Snippet
 
-Hopefull if you're familiar with graphics APIs, this code snippet to draw a triangle to the screen will look a little familiar. If not, the comments should help you follow along!
+Hopefully if you're familiar with graphics APIs, this code snippet to draw a triangle to the screen will look a little familiar. If not, the comments should help you follow along!
 
 ```rust
 use blinds::*;
