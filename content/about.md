@@ -2,13 +2,11 @@
 title: "About Me"
 ---
 
-I'm a computer science student and a software developer, currently looking for full-time positions.
-
- I'm studying Computer Science at Rutgers University New Brunswick in the School of Arts and Sciences Honors Program. My main area of experience is full stack web development, with my side projects focused on open source game development.
+I'm a computer science student and a software developer, studying Computer Science at Rutgers University New Brunswick in the School of Arts and Sciences Honors Program. My main area of experience is full stack web development, with my side projects focused on open source game development.
 
 ### Academic Experience
 
-I'm a senior studying Computer Science at Rutgers University; I've tried to take a wide variety of upper-level classes, with an interest in improving the average person's access to computing power.
+I'm a senior studying Computer Science at Rutgers University; I've tried to take a wide variety of upper-level classes, with an interest in improving computing accessibility.
 
 ### Professional Experience
 
@@ -22,4 +20,4 @@ In 2016, I worked as a research assistant at Monmouth University on a project ca
 
 ### Rust Gamedev
 
-You may know me from my work in open-source Rust game libraries. I'm the developer of [Quicksilver](https://github.com/ryanisaacg/quicksilver) and I contribute to other libraries in the ecosystem like [winit](https://github.com/rust-windowing/winit) and [gilrs](https://gitlab.com/gilrs-project/gilrs). My main focus is ease-of-use and web deployments, with the goal of making it zero-effort to write a game in Rust that works both natively and on the web.
+You may know me from my work in open-source Rust game libraries. I'm the developer of [Quicksilver](https://github.com/ryanisaacg/quicksilver) (as well as related libraries), and I maintain the web backend for [winit](https://github.com/rust-windowing/winit). My main focus is ease-of-use and web deployments, with the goal of making it zero-effort to write a game in Rust that works both natively and on the web.
