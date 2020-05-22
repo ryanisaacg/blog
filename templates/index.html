@@ -1,0 +1,20 @@
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <header>
+            <h1> {{ section.title }} </h1>
+        </header>
+        <article>
+            {{ section.content | safe }}
+            {% set posts = get_section(path="posts/_index.md",metadata_only="true") %}
+            {% for page in posts.pages %}
+                <p>
+                    <h4> {{ page.title }} </h4>
+                    {{ page.summary | safe }}
+                </p>
+            {% endfor %}
+        </article>
+    </main>
+</body>
