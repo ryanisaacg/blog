@@ -1,20 +1,22 @@
-<head>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <main>
-        <header>
-            <h1> {{ section.title }} </h1>
-        </header>
-        <article>
-            {{ section.content | safe }}
-            {% set posts = get_section(path="posts/_index.md",metadata_only="true") %}
-            {% for page in posts.pages %}
-                <p>
-                    <h4> {{ page.title }} </h4>
-                    {{ page.summary | safe }}
-                </p>
-            {% endfor %}
-        </article>
-    </main>
-</body>
+{% import "macros.html" as macros %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> {{ section.title }} </title>
+        <link rel="stylesheet" href="home.css">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+        <main>
+            <header>
+                <h1> {{ section.title }} </h1>
+            </header>
+            <article>
+                {{ section.content | safe }}
+                {{ macros::post_summaries(limit = 5) }}
+                <a href="posts/"> <strong> More Posts </strong> </a>
+            </article>
+        </main>
+    </body>
+</html>

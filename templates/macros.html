@@ -1,0 +1,19 @@
+{% macro post_summaries(limit) %}
+    {% set posts = get_section(path="posts/_index.md",metadata_only="true") %}
+    {% set pages = posts.pages | sort(attribute="date") | reverse %}
+    {% if limit > -1 %}
+        {% set pages = pages | slice(end=limit) %}
+    {% endif %}
+    {% for page in pages %}
+        <section>
+            <header>
+                <p> {{ page.date }} </p>
+                </p>
+                <a href="{{ page.path }}">
+                    <h3> {{ page.title }} </h3>
+                </a>
+            </header>
+            {{ page.summary | safe }}
+        </section>
+    {% endfor %}
+{% endmacro post_summaries %}
