@@ -1,4 +1,5 @@
 +++
-title = "ryan.isaacg"
+title = "Blog Posts"
+template = "posts.html"
 +++
-# INDEX
+
