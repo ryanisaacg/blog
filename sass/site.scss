@@ -9,6 +9,8 @@ $fonts: (
   'sans': (system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'PT Sans', 'Open Sans', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif),
 );
 
+$body-elements: p, h1, h2, h3, h4, h5, h6, ol, ul, header, footer;
+
 html {
   font-family: map-get($fonts, 'sans');
   color: $primary-text;
@@ -21,9 +23,22 @@ body {
   font-size: $primary-size;
 }
 
-main {
-  margin: 0 auto;
+// Align body elements
+
+#{$body-elements}, pre {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#{$body-elements} {
   max-width: 640px;
+}
+
+pre {
+  max-width: 960px;
+  padding: 4px 0px;
+  border-top: 1px solid #999;
+  border-bottom: 1px solid #999;
 }
 
 // Colors
