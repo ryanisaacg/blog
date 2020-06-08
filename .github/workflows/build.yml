@@ -15,11 +15,15 @@ jobs:
       - name: Add site repo
         run: git clone https://github.com/ryanisaacg/ryanisaacg.github.io live
       - name: Build the site
-        run: zola build -o public
-      - name: Push the changes
         run: |
+          zola build -o public
           cp -r public/* live/
           cd live/
           git add -A
+          git config --local user.email "action@github.com"
+          git config --local user.name "Github Action"
           git commit -m "Automatic rebuild triggered by ryanisaacg/blog"
-          git push
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
