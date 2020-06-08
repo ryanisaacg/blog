@@ -19,6 +19,7 @@ jobs:
           zola build -o public
           cp -r public/* live/
           cd live/
+          git pull
           git add -A
           git config --local user.email "action@github.com"
           git config --local user.name "Github Action"
