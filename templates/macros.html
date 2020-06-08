@@ -9,7 +9,7 @@
             <header>
                 <p> {{ page.date }} </p>
                 </p>
-                <a href="{{ page.path }}">
+                <a href="{{ get_url(path=page.path) }}">
                     <h3> {{ page.title }} </h3>
                 </a>
             </header>
