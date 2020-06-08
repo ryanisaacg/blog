@@ -1,0 +1,18 @@
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+        with:
+          persist-credentials: false # Use personal github token instead of environment variable
+      - name: Add site repo
+        run: git clone https://github.com/ryanisaacg/ryanisaacg.github.io live
+      - name: Build the site
+        run: zola build -o public
+      - name: Push the changes
+        run: |
+          cp -r public/* live/
+          cd live/
+          git add -A
+          git commit -m "Automatic rebuild triggered by ryanisaacg/blog"
+          git push
