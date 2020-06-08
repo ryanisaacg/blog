@@ -21,3 +21,4 @@ I hope this means I can get some posts up about Quicksilver soon; there's been a
 - I wanted to wait until the 0.4 release is closer to feature-complete
 - And mostly, I've been very busy
 
+Post-script update, as of June 8th 2020: The blog is a bit more automatic! Previously I was just pushing up new built versions of the site to Github Pages, but that gets tedious. I set up Github Actions to run on any push to ryanisaacg/blog on master; now the blog is automatically built and deployed.
