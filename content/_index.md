@@ -4,6 +4,7 @@ title = "ryan.isaac.g"
 
 ## 👋 Hi, I'm Ryan
 
+My pronouns are he/him.
 I'm a software engineer and a hobbyist game developer.
 
 You can find my resume and work history on [LinkedIn](https://linkedin.com/in/ryanisaacg).
