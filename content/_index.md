@@ -16,4 +16,6 @@ Currently I'm exploring physical games, especially table-top roleplaying games. 
 
 If you want to get in contact, you can reach me [via email](mailto:ryan@ryanisaacg.com).
 
+## Blog Posts
 <!-- Blog posts go here -->
+
