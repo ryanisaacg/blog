@@ -1,9 +1,5 @@
-$primary-text: #000;
 $primary-size: 16px;
-$secondary-text: #333;
 $secondary-size: 12px;
-$primary-bkg: #FFF;
-$aside-bkg: #EEE;
 
 $fonts: (
   'mono': (Consolas, 'Lucida Console', Monaco, monospace),
@@ -12,10 +8,42 @@ $fonts: (
 
 $body-elements: p, h1, h2, h3, h4, h5, h6, ol, ul, header, footer, aside;
 
+@media (prefers-color-scheme: light) {
+    :root {
+        --primary-text: #000;
+        --secondary-text: #333;
+        --primary-bkg: #FFF;
+        --aside-bkg: #EEE;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primary-text: #EEE;
+        --secondary-text: #BBB;
+        --primary-bkg: #141414;
+        --aside-bkg: #222;
+    }
+}
+
+// Colors
+
+a {
+  color: #0064c1;
+}
+
+a:visited {
+  color: #8d39d0;
+}
+
+a:hover {
+  color: #f00000;
+}
+
 html {
   font-family: map-get($fonts, 'sans');
-  color: $primary-text;
-  background-color: $primary-bkg;
+  color: var(--primary-text);
+  background-color: var(--primary-bkg);
   line-height: 1.4;
 }
 
@@ -38,22 +66,6 @@ body {
 pre {
   max-width: 960px;
   padding: 4px 0px;
-  border-top: 1px solid #999;
-  border-bottom: 1px solid #999;
-}
-
-// Colors
-
-a {
-  color: #0064c1;
-}
-
-a:visited {
-  color: #8d39d0;
-}
-
-a:hover {
-  color: #f00000;
 }
 
 // Typography
@@ -65,5 +77,5 @@ h1, h2, h3, h4, h5, h6 {
 aside p {
   border-left: 3px solid #A00;
   padding: 16px;
-  background-color: $aside-bkg;
+  background-color: var(--aside-bkg);
 }

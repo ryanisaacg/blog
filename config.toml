@@ -2,9 +2,6 @@ base_url = "https://ryanisaacg.com"
 
 compile_sass = true
 
-highlight_code = true
-highlight_theme = "Tomorrow"
-
 build_search_index = false
 
 generate_rss = true
