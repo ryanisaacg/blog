@@ -4,7 +4,8 @@ compile_sass = true
 
 build_search_index = false
 
-generate_rss = true
+generated_feed = true
+
 
 [extra]
 # Put all your custom variables here
